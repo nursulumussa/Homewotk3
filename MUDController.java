@@ -1,9 +1,4 @@
 import java.util.Scanner;
-
-/**
- * MUDController:
- * A simple controller that processes player commands like look, move, pick up items, check inventory, and show help.
- */
 public class MUDController {
     private final Player player;
     private boolean running;
